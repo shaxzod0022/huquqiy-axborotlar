@@ -1,0 +1,96 @@
+.formcon{
+    background-color: #e9ecef;
+    border-radius: 30px;
+}
+.input-group-text{
+    border-radius: 30px;
+}
+.navitem{
+    height: 25px;
+    border-right: 2px solid black;
+}
+.section2{
+    background-image: url("../img/slide.f00f149.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.inpgrapp2{
+   border-radius: 8px; 
+   background-color: white;
+}
+.formcon2{
+    border-radius: 8px;
+    height: 45px;
+}
+.formtop{
+    height: 45px;
+}
+.inpgr{
+    height: 45px;
+}
+.btn-outline-light{
+    border-radius: 17px;
+}
+.section2-top{
+    padding-top: 70px;
+}
+.section2-bottom{
+    height: 176px;
+}
+.h1teg1{
+    font-weight: bold;
+    font-size: 46px;
+    line-height: 58px;
+}
+.pteg1{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+}
+.yangbtn{
+    border-radius: 30px;
+    background-color: #597ba3;
+}
+.imgs2{
+    width: 15px;
+}
+.section4{
+    background-color: #e2eaf1;
+}
+.card, .card-2{
+    border-radius: 10px;
+    justify-content: center;
+}
+.card-img-top{
+    margin: auto;
+    width: 100px;
+    height: 100px;
+}
+.section5{
+    background-color: #f3f5f6;
+}
+.card-scope{
+    background-color: #dfe2ea;
+    color: #313b61;
+    width: 50%;
+}
+.index2-section2{
+    background-color: #e2eaf1;
+    border-radius: 15px;
+}
+.card-img{
+    margin: 18px 15px 18px 36px;
+    width: 50px;
+    height: 50px;
+}
+.index2btn{
+    background-color: #07a287;
+    border-radius: 10px;
+}
+footer{
+
+}
+.links{
+    margin: 5px;
+    padding: 0;
+}
